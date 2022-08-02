@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Sofiyat
-- 👀 I’m interested in technology field
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate in order to become a proper software engineer
-- 📫 you can reach me through this number(07-0-88-6437-1-7)
 
 <!---
 Sofiyat1/Sofiyat1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
